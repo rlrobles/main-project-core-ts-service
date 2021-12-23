@@ -1,4 +1,4 @@
 [submodule "apidb-ts-library"]
 	path = apidb-ts-library
 	url = https://github.com/rlrobles/apidb-ts-library.git
-	branch = dev
+	branch = main
